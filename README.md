@@ -1,18 +1,74 @@
-# 💫 About Me:
-MOST. MOTHMAENNA MIM<br>Address: Lalbag, Rangpur Sadar - 5400, Bangladesh<br>Mobile: +88 0179-6861119<br>Email: mothmaennamim1529@gmail.com <br>CAREER SUMMARY <br>Strategic Front-End Developer with a strong focus on building scalable, high-performance web <br>solutions using HTML, CSS, JavaScript, and React. Proven expertise in Tailwind CSS, Bootstrap, <br>WordPress, Figma, and GoHighLevel. Known for transforming complex stakeholder requirements <br>into intuitive, growth-driven applications. Passionate about clean code, innovation, and creating <br>solutions that deliver measurable results.<br>CORE STRENGTHS<br> HTML, CSS, REACT & WORDPRESS<br> Bootstrap & Tailwind CSS<br> Photoshop, Illustrator, Canva<br> GoHighLevel (GHL)<br> Responsive Design<br> MS Office Application<br> Problem Ownership<br> Pressure Handling & Quick Learner<br> Clean Coding & Creative Mindset<br> Strong Teamwork and Communication<br>WORK EXPERIENCES<br>Front-End Web Developer (Remote) Sep 2025 - Present<br>BRITTO SOFT, Dhaka - Bangladesh. <br> Develop responsive and user-friendly web interfaces using HTML5, CSS3, JavaScript, <br>React.js, Tailwind CSS, and Bootstrap.<br> Convert UI/UX designs from Figma into pixel-perfect, high-performance web pages. <br> Optimize websites for speed, accessibility, and cross-browser compatibility. <br> Managing GHL Project for - Funnel Building Email & SMS Automation.<br>Assistant Mentor (Project-Based) - NSDA Jan 2026 - April 2026<br>INSPIRED IT, Rangpur- Bangladesh<br> Assist trainees in learning front-end web development concepts and project implementation.<br> Guide students through real-world, project-based tasks aligned with NSDA standards.<br> Review code, provide constructive feedback, and help troubleshoot technical issues.<br>EDUCATION<br>DEGREE INSTITUTE GROUP RESULT PASSSING YEAR<br>B.SC DEGREES Carmichael College, Rangpur Science 3.00 2027<br>HSC Bepza Public School & College Science 5.00 2021<br>SSC Bepza Public School & College Science 4.61 2019<br>TRAINING AND CERTIFICATION<br> Graphic Design Training - Computer Alor Pathe, Rangpur — March - 2024<br>Practical training in Adobe Illustrator, Adobe Photoshop, logo design, vector design, <br>photo manipulation, and professional visual content creation.<br> Basic Computer Application Training - Computer Alor Pathe, Rangpur — July - 2024<br>Completed professional training in Microsoft Word, Excel, and PowerPoint with a focus on <br>documentation, data management, and presentations.<br> Front-End & WordPress Web Development Program - Inspired IT — Feb - 2025<br>Project-based training covering HTML5, CSS3, JavaScript, React.js, Tailwind CSS, <br>Bootstrap, UI implementation, and team-based development practices.<br>LANGUAGE SKILLS<br> English – Good professional proficiency in reading, writing, listening and speaking<br> Bengali – Good professional proficiency in reading, writing, listening and speaking<br>EXTRA-CURRICULAR ACTIVITIES<br> Proud participant in a project showcase competition, presenting web development <br>projects and demonstrating problem-solving, creativity, and technical skills.<br> Studied the fundamentals of Facebook Ads, including campaign structure, audience <br>targeting, and ad optimization basics.<br>PERSONAL INFO<br> Name - Most. Mothmaenna Mim<br> Father’s Name - Md Mofidul Islam Munna<br> Mother’s Name - Marufa Begum<br> Date of Birth - 11 February, 2003<br> Nationality - Bangladeshi<br> Gender - Female<br> Religion - Islam<br> Blood Group - B+(Positive)<br> Marital Status - Unmarried<br> Address - Mithapukur, Rangpur<br>REFERENCES <br>Ali Fiad Ruddro<br>Web Developer<br>Inspired IT, Rangpur<br>Phone: +88 01755232541<br>Email: aliruddro@gmail.com<br>Touhidul Islam Sadhin<br>Team Leader<br>Britto Soft, Dhaka<br>Mobile: +88 01518999578<br>Email: touhiduliet@gmail.com<br> Most. Mothmaenna Mim
+# 👋 Hi, I'm Most. Mothmaenna Mim
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mothmaennamim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mothmaenna-mim) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mothmaennamim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mothmaennamim&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mothmaennamim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🚀 **Front-End Developer | React & WordPress Specialist**  
+📍 Rangpur, Bangladesh  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mothmaennamim&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👩‍💻 About Me
+
+I’m a **strategic Front-End Developer** focused on building **scalable, high-performance, and user-centric web applications**.  
+I specialize in translating complex business and stakeholder requirements into **clean, intuitive, and growth-driven digital solutions**.
+
+With hands-on experience in **React, Tailwind CSS, Bootstrap, and WordPress**, I’m passionate about **clean code, responsive design, and modern UI/UX practices** that deliver measurable impact.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 🌐 Front-End Development
+- **HTML5, CSS3, JavaScript (ES6+)**
+- **React.js**
+- **Responsive & Mobile-First Design**
+
+### 🎨 Styling & UI
+- **Tailwind CSS**
+- **Bootstrap**
+- **Figma (UI Implementation)**
+
+### 🧩 CMS & Tools
+- **WordPress**
+- **GoHighLevel (GHL)**
+
+### 🖌️ Design Tools
+- Photoshop  
+- Illustrator  
+- Canva  
+
+### 🧰 Productivity
+- MS Office Applications  
+- Clean Coding Practices  
+
+---
+
+## 💡 Core Strengths
+
+- ✔ Problem Ownership & Solution-Oriented Thinking  
+- ✔ Pressure Handling & Fast Learning Ability  
+- ✔ Strong Team Collaboration & Communication  
+- ✔ Creative Mindset with Attention to Detail  
+- ✔ Performance Optimization & Code Maintainability  
+
+---
+
+## 📈 What I Focus On
+
+- Building **scalable front-end architectures**
+- Creating **pixel-perfect UI implementations**
+- Writing **clean, reusable, and maintainable code**
+- Enhancing **user experience and performance**
+- Delivering **business-focused digital solutions**
+
+---
+
+## 📫 Contact Me
+
+- 📍 **Address:** Lalbag, Rangpur Sadar – 5400, Bangladesh  
+- 📱 **Mobile:** +88 0179-6861119  
+- ✉️ **Email:** [mothmaennamim1529@gmail.com](mailto:mothmaennamim1529@gmail.com)
+
+---
+
+## 🌟 Let’s Connect
+
+If you're looking for a **dedicated Front-End Developer** who values quality, performance, and collaboration — let’s build something impactful together 🚀
